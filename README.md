@@ -4,4 +4,4 @@
  1. Python-3.6.6
  2. Django-2.0.1
  3. MySQL-5.7
- 4. navicat
+ 4. navicat 
